@@ -16,6 +16,7 @@
         "tanstack",
         "uploadthing",
         "utfs",
-        "Wireles"
+        "Wireles",
+        "name"
     ]
 }
